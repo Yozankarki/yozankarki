@@ -2,7 +2,7 @@
 
 My name is **Yojan karki**, I'm a student of **Computer Science** at Patan Multiple Campus in Nepal. 
 <br>
-You can reach me out on:
+**<em>Reach out to me:</em>**
 <br>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yozankarki)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yozankarki/)
