@@ -1,16 +1,21 @@
 ### Hi there 👋, I'm yojan karki.
 
-## GitHub activity
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yozankarki&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
+## My GitHub activity and languages used.
 
-## Languages I have used in my Repositories.
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozankarki&langs_count=3&hide_title=true&hide_border=true" />
-</a>
+<br>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+       <img src="https://github-readme-stats.vercel.app/api?username=yozankarki&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozankarki&hide_border=true&layout=compact" align="left" style="width: 100%" />
+    </td>
+ </tr>
+</table>  
 
 ## Profile views. 
-<br>
-<img style="text-align:center;" src="https://gpvc.arturio.dev/yozankarki" alt="Profile views"/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=yozankarki&&style=flat-square" align="center" />
+</div>  
