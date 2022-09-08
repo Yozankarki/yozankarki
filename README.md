@@ -6,11 +6,11 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love to play cricket 🎱.
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" frameBorder="0" class="giphy-embed" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif"/>
 
 ## My GitHub activity and languages used.
 
