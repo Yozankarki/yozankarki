@@ -7,7 +7,7 @@
   <tr>
     <td valign="top" width="50%">
        <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=yozankarki&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=yozankarki&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true"  style="width: 100%"/>
       </a>
     </td>
     <td valign="top" width="50%">
