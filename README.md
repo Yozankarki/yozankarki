@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #How many stalkers I have
-<img src="https://gpvc.arturio.dev/yangshun" alt="Profile views"/>
+<img src="https://gpvc.arturio.dev/yozankarki" alt="Profile views"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yozankarki&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
