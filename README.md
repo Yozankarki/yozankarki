@@ -29,11 +29,13 @@ You can reach me out on:
   <tr>
     <td valign="top" width="50%">
        <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=yozankarki&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" align="left" style="width: 100%"/>
+         
+![yojan github stats](https://github-readme-stats.vercel.app/api?username=yozankarki)
+         <img align="center" alt=""/>
       </a>
     </td>
     <td valign="top" width="50%">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozankarki&hide_border=true&layout=compact" align="left" style="width: 100%" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozankarki&hide_border=true&layout=compact" align="left" style="width: 100%;" />
     </td>
  </tr>
 </table>  
