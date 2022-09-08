@@ -13,4 +13,4 @@
 
 ## Profile views. 
 <br>
-<img src="https://gpvc.arturio.dev/yozankarki" alt="Profile views"/>
+<img style="align:center" src="https://gpvc.arturio.dev/yozankarki" alt="Profile views"/>
