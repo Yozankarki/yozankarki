@@ -1,6 +1,8 @@
 ### Hi there 👋.
 
-My name is **Yojan karki**, I'm a student of **Computer Science** at Patan Multiple Campus in Nepal.Reach me out on
+My name is **Yojan karki**, I'm a student of **Computer Science** at Patan Multiple Campus in Nepal. 
+<br>
+You can reach me out on:
 <br>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yozankarki)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yozankarki/)
@@ -8,7 +10,7 @@ My name is **Yojan karki**, I'm a student of **Computer Science** at Patan Multi
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif">
 
-## I'm a Bachelor in Computer Science Student.
+## Working on.
 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
