@@ -8,7 +8,7 @@ My name is **Yojan karki**, I'm a student of **Computer Science** at Patan Multi
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yozankarki/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yozankarki2000@gmail.com)
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif">
+<img align="right" alt="GIF" height="250px" width="350px" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif">
 
 ## Working on.
 
