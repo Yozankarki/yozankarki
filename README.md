@@ -5,7 +5,7 @@
 I'm Yojan Karki, a code blooded animal who enjoys working on the user interface of applications. I'm a fan of frontend technologies like React.js and Express.js. I'm passionate about coding, love coffee, and I'm also learning about .NET technologies at the moment.
 <br/>
 <br/>
-.<a href="https://drive.google.com/file/d/1KEvkxLtTHJ_S_8pIkpWhLvZtw7hJQJCh/view?usp=share_link">Resume</a>.
+.<a href="https://drive.google.com/file/d/1sPR8HES8N54lsQrZAPx9Ge-T9kJXxgBt/view?usp=drive_link">Resume</a>.
 </div>
 
 <p align="center">
