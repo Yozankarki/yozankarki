@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>About Me</h1>
-I'm Yojan Karki, a code blooded animal who enjoys working on the user interface of applications. I'm a fan of frontend technologies like React.js and Express.js. I'm passionate about coding, love coffee, and I'm also learning about .NET technologies at the moment.
+ Hi, I'm Yojan Karki, a code blooded animal who enjoys working on .NET MVC with a strong enthusiasm for the MERN stack. I enjoy crafting user interfaces and am currently exploring the world of AngularJS. Passionate about coding, a fan of React.js and Express.js, and fueled by coffee, I thrive in building engaging and efficient applications.
 <br/>
 <br/>
 .<a href="https://drive.google.com/file/d/1sPR8HES8N54lsQrZAPx9Ge-T9kJXxgBt/view?usp=drive_link">Resume</a>.
@@ -16,7 +16,7 @@ I'm Yojan Karki, a code blooded animal who enjoys working on the user interface 
 </p>
 
 <div align="center">
-<strong>your future buddy to discuss .NET and JavaScript and tech in general on.<strong>
+<strong>your future buddy to discuss .NET, JavaScript and tech in general on.<strong>
 <br/>
 <a href="https://www.facebook.com/yozankarki2000">
 <img width="50" height="50" src="https://img.icons8.com/bubbles/50/facebook.png" alt="facebook"/>
