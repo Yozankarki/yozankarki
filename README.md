@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
- <i>A passionate frontend developer from Nepal.</i>
+ <i>"A passionate software developer from Nepal, specializing in .NET technology and crafting dynamic user interfaces with Angular and ReactJs"</i>
 <p  align="center">
 <img src="https://komarev.com/ghpvc/?username=yozankarki&&style=flat-square" align="center" />       
 </p>
