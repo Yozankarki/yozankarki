@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
- .<a href="https://drive.google.com/file/d/1sPR8HES8N54lsQrZAPx9Ge-T9kJXxgBt/view?usp=drive_link">Resume</a>.
+ .<a href="https://drive.google.com/file/d/1eJ1spDC6qTMEZ-h8YIgUon1pHbL5PbJN/view?usp=sharing">Resume</a>.
 </div>
 <br>
 
